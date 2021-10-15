@@ -1,1 +1,16 @@
 /* styles */
+.araz {
+    background: lightblue;
+    line-height: 1.7em;
+}
+.header {
+    background: lightgray;
+    line-height: 1em;
+}
+.contactInfo {
+    font-size: 1.5em
+}
+#aboutMe {
+    background: lightgreen;
+    line-height: 1.8em;
+}
